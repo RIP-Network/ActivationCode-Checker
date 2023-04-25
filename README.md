@@ -12,4 +12,12 @@ cd ActivationCode-Checker
 
 python3 windows-check.py
 
+# Cómo usar Windows
+
+git clone https://github.com/RIP-Network/ActivationCode-Checker
+
+cd ActivationCode-Checker
+
+python windows-check.py
+
 
