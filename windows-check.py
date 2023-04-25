@@ -39,7 +39,22 @@ with open('codigos.txt', 'w') as f:
     for codigo in codigos:
         f.write(codigo + '\n')
 
-
+print("       _nnnn_ ")
+print("        dGGGGMMb ")
+print("       @p~qp~~qMb ")
+print("       M|@||@) M| ")
+print("       @,----.JM| ")
+print("      JS^\__/  qKL ")
+print("     dZP        qKRb ")
+print("    dZP          qKKb ")
+print("   fZP            SMMb ")
+print("   HZM            MMMM ")
+print("   FqM            MMMM ")
+print(" __| ".        |\dS"qML ")
+print(" |    `.       | `' \Zq ")
+print("_)      \.___.,|     .' ")
+print("\____   )MMMMMM|   .' ")
+      
 print("Probando los codigos de activacion por favor espere...")
 time.sleep(3)
 
