@@ -2,6 +2,22 @@ import random
 import string
 import time
 
+print(" ___________________")
+print(" | _______________ |")
+print(" | |XXXXXXXXXXXXX| |")
+print(" | |XXXXXXXXXXXXX| |")
+print(" | |XXXXXXXXXXXXX| |")
+print(" | |XXXXXXXXXXXXX| |")
+print(" | |XXXXXXXXXXXXX| |")
+print(" |_________________|")
+print("     _[_______]_")
+print(" ___[___________]___")
+print("|         [_____] []|__")
+print("|         [_____] []|  \__")
+print("L___________________J     \ \___\/")
+print(" ___________________      /\")
+print("/###################\    (__)")
+      
 print("Created by RIP-Network")
 time.sleep(4)
 
