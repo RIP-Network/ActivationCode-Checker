@@ -1,6 +1,7 @@
 import random
 import string
 import time
+import subprocess
 
 print(" ___________________")
 print(" | _______________ |")
@@ -57,8 +58,6 @@ print("\____   )MMMMMM|   .' ")
       
 print("Probando los codigos de activacion por favor espere...")
 time.sleep(3)
-
-import subprocess
 
 def check_activation_code(activation_code):
 
